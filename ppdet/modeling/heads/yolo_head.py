@@ -55,6 +55,10 @@ class YOLOv3Head(nn.Layer):
                  data_format='NCHW'):
         """
         Head for YOLOv3 network
+<<<<<<< HEAD
+=======
+
+>>>>>>> upstream/develop
         Args:
             num_classes (int): number of foreground classes
             anchors (list): anchors
